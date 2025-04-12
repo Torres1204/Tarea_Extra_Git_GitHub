@@ -1,0 +1,20 @@
+• ¿Cuál fue el tema que más se te dificulto en el curso y por qué?
+
+Ninguno
+
+• Ahora que tienes las nociones claras de lo que es Git y GitHub,
+¿consideras que son herramientas útiles para tu desarrollo profesional
+o personal? Explica tu respuesta
+
+Si, mucho. Porque para ambientes de profesionales es necesario tener un historal
+de versiones, asi como herramientas de trabajo colaborativo.
+
+• ¿En que ámbitos de tu vida (académica, laboral, personal, etc.) crees
+que podrías aplicar Git y GitHub?
+
+Para mis tareas, proyectos y futuros trabajos
+
+• ¿Qué conocimientos o habilidades te llevas que no tenías antes de
+iniciar el curso?
+
+Los tipos de merge que existen
