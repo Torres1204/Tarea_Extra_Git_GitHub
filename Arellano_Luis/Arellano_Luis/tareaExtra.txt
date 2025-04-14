@@ -1,0 +1,26 @@
+¿Cuál fue el tema que más se te dificulto en el curso y por qué?
+R = En general se me hizo algo pesado el curso porque tenía algunos 
+errores en i instalación que tuve que ir resolviendo durante la clase, 
+lo que hacía que me perdiera. Así que, la configuración inicial de Git 
+fue lo más complicado.
+ 
+Ahora que tienes las nociones claras de lo que es Git y GitHub, 
+¿consideras que son herramientas útiles para tu desarrollo profesional
+o personal? Explica tu respuesta
+R = Si, porque permiten un control de versiones y además, de alguna 
+forma obligan a tener claridad con los cabios que se están realizando, 
+sobretodo si trabajas con alguien más.
+ 
+¿En que ámbitos de tu vida (académica, laboral, personal, etc.) crees 
+que podrías aplicar Git y GitHub?
+R = Creo que sería sobretodo en lo académico, pues estoy interesado en 
+el desarrollo de software embebido, área en la que supongo que se 
+utiliza bastante GitHub, por lo que espero utilizarlo más.
+ 
+¿Qué conocimientos o habilidades te llevas que no tenías antes de
+iniciar el curso?
+R = Creo que me llevo el manejo de las ramas, pues es algo que no tenía 
+muy claro ni cómo crearlas ni para qué servían, además de las 
+correcciones que hice en Visual Studio para no tener problemas con mi 
+cuenta.
+ 
