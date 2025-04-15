@@ -1,0 +1,16 @@
+# Preguntas
+1. ¿Cuál fue el tema que más se te dificulto en el curso y por qué?
+Creo que lo que mas se me dificulto fue el cambiar mi rama master a rama main porque eso hizo que me atrasara en la clase
+
+2. Ahora que tienes las nociones claras de lo que es Git y GitHub,
+¿consideras que son herramientas útiles para tu desarrollo profesional
+o personal? Explica tu respuesta
+Si, considero que potencializan el desempeño, presentacion y eficiencia de nuestros proyectos como estudiantes 
+
+3. ¿En que ámbitos de tu vida (académica, laboral, personal, etc.) crees
+que podrías aplicar Git y GitHub? 
+Siento que lo usaria más en el ambito academico para hacer trabajos colaborativos.
+
+4. ¿Qué conocimientos o habilidades te llevas que no tenías antes de
+iniciar el curso?
+La verdad todo jaja, antes de este curso no habia utilizado GitHub, entonces todo lo que aprendí es nuevo para mi
