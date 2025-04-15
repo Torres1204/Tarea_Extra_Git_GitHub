@@ -1,0 +1,21 @@
+¿Cuál fue el tema que más se te dificulto en el curso y por qué?
+- Se me ha dificultado entender punteros/apuntadores en C y plantear
+ la lógica de algunos ejercicios
+
+Ahora que tienes las nociones claras de lo que es Git y GitHub,
+¿consideras que son herramientas útiles para tu desarrollo profesional
+o personal?
+- Sí son útiles porque permite hacer trabajo colaborativo y facilita el
+conocer los cambios efectuados, además llevar versionados es importante
+para cuando quieres regresar a algún estado anterior cuando hay algún error.
+
+¿En que ámbitos de tu vida (académica, laboral, personal, etc.) crees
+que podrías aplicar Git y GitHub?
+- Académicamente ya lo es para el trabajo colaborativo del curso.
+Laboralmente para la construcción de software, así como proyectos personales
+para tener un portafolio que mostrar.
+
+¿Qué conocimientos o habilidades te llevas que no tenías antes de
+iniciar el curso?
+- Respecto a git, usar comandos combinados como git commit -am "mensaje"
+para agregar un commit. Familiarizarme con la terminal de linux y su entorno.
