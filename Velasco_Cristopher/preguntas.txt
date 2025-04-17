@@ -1,0 +1,14 @@
+• ¿Cuál fue el tema que más se te dificulto en el curso y por qué?
+    El tema que mas se me dificultó fue la parte de la autenticación con Github. Por alguna razón no me funcionaba el inicio de sesión para realizar los primeros commits dentro de nuestro repositorio remoto. Lo pude solucionar con un programa externo para credenciales de Github llamado GH-cli. Todo lo demas fue sencillo de comprender.
+
+• Ahora que tienes las nociones claras de lo que es Git y GitHub, ¿consideras que son herramientas útiles para tu desarrollo profesional o
+personal? Explica tu respuesta
+    En definitiva, son herramientas que son muy importantes para el desarrollo profesional y personal. Incluso gente que no se dedica como tal a programar podrian ser herramientas utiles para el seguimiento de ciertos archivos. Adicionalmente, Git es una herramienta que siempre se ha utilizado en el ambito profesional a la hora de programar, por lo que sí o sí era primordial aprender lo basico del uso de esta herramienta.
+
+• ¿En que ámbitos de tu vida (académica, laboral, personal, etc.) crees que podrías aplicar Git y GitHub?
+    - Academica: al ser una herramienta de desarrollo de proyectos, es muy eficiente trabajar en equipo de esta forma y mantener un orden en los archivos alojados en nuestro repositorio.
+    - Laboral: casi todas las organizaciones enfocadas al desarrollo de software o similares deben de utilizar esta herramienta. Al llegar a dicho campo laboral con estas nociones basicas de git, entonces seguramente será mucho mas facil adaptarse a estas herramientas.
+    - Personal: la gente muchas veces desarrolla proyectos de forma personal. El uso de Git es muy util para mantener un control y seguimiento de los cambios que se hacen en estos proyectos debido a que muchas veces pasa suficiente tiempo entre sesiones como para olvidar facilmente el punto en el que se quedó uno.
+
+• ¿Qué conocimientos o habilidades te llevas que no tenías antes de iniciar el curso?
+    Antes de comenzar con el curso no tenia absolutamente ni una idea de lo que teniamos que hacer para utilizar git y github. Ciertamente tenia la idea de que era una herramienta para la programación pero no conocía la forma en que utilizaba o cómo manejarla.
