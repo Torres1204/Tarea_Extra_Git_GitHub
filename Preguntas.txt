@@ -1,0 +1,33 @@
+• ¿Cuál fue el tema que más se te dificultó en el curso y por qué?
+
+    Lo que más se me dificultó fue volver a trabajar con GitHub, ya que en mis últimos proyectos había estado utilizando
+    la plataforma Gitea para el control de versiones. 
+
+• Ahora que tienes las nociones claras de lo que es Git y GitHub,
+  ¿consideras que son herramientas útiles para tu desarrollo profesional o personal? Explica tu respuesta
+
+    Sin duda, considero que son herramientas fundamentales tanto para mi desarrollo profesional como personal.
+    En el ámbito personal, suelo trabajar en proyectos con OpenGL apoyándome en el modelado con Blender, además
+    de guardar programas relevantes que he visto en la escuela. 
+
+    En el aspecto profesional es imprescindible seguir correctamente los lineamientos y estructuras de
+    trabajo que manejan las empresas en sus repositorios es clave, ya que un error puede ser muy grave.
+
+• ¿En qué ámbitos de tu vida (académica, laboral, personal, etc.) crees que podrías aplicar Git y GitHub?
+
+    Tanto en el ámbito académico como en el laboral, Git y GitHub me ayudan a mantener un orden en los proyectos
+    e iniciativas que desarrollo, además de facilitar la consulta de trabajos anteriores.
+
+    En el ámbito personal, considero que mi perfil en GitHub representa una especie de carta de presentación
+    (después del CV), ya que demuestra de alguna manera mi forma de trabajar y los proyectos en los que he participado,
+    lo cual es muy importante al momento de querer formar parte de un equipo profesional.
+
+• ¿Qué conocimientos o habilidades te llevas que no tenías antes de iniciar el curso?
+
+    Aunque ya tenía conocimientos previos en el tema, el curso me ayudo a retomar algunas
+    funcionalidades que había dejado de usar. Por ejemplo, revisé nuevamente las variantes del comando git log o 
+    la forma que implementan para hacer sus commits: [OWNER][ACTION][BRANCH]
+
+    Además, me sentí motivado a repasar otros conceptos importantes como el uso de tags, el archivo .gitignore,
+    y la resolución de conflictos con rebase, entre otros aspectos que no fueron abordados a fondo en el curso
+    pero que considero esenciales para trabajar con Git de forma más avanzada.
