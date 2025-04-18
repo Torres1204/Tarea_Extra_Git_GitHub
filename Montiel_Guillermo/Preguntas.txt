@@ -1,0 +1,21 @@
+Montiel Juárez Guillermo Jair
+
+1. ¿Cuál fue el tema que más se te dificultó en el curso y por qué?
+En la parte de Git y Github, fue la parte de las branch,
+ya que siento que se necesitó una explicación un poco más gráfica o visual,
+pues es un tema que entendí mejor con ayuda de imágenes.
+
+2. ¿Ahora que tienes las nociones claras de lo que es Git y GitHub, ¿consideras que son herramientas útiles para tu desarrollo profesional o personal?
+Sí, serán nociones que me serán extremadamente útiles, ya que en mi experiencia laboral, absolutamente todo proyecto necesita un control de versiones,
+y esta experiencia me ha permitido entender y poner en práctica estos conocimientos, y haber tenido el curso de Linux ha hecho más fácil el proceso. 
+Además, para proyectos personales, es una muy buena práctica para llevar control de los mismos.
+
+3. ¿En qué ámbitos de tu vida (académica, laboral, personal, etc.) crees que podrías aplicar Git y GitHub?
+En todos los ámbitos, ya que en el trabajo se utilizan muchísimo estos recursos, además de que me he interesado bastante por la comunidad de GitHub y
+todos los beneficios que ofrece. Tengo algunos proyectos en los que me gustaría aplicar estas herramientas, sobre todo porque son colaborativos donde
+participará más de una persona.
+
+4. ¿Qué conocimientos o habilidades te llevas que no tenías antes de iniciar el curso?
+Me llevo los conocimientos de aprenderme los comendos y el órden correcto que se aplican por medio de la terminal, tanto de manera local como en un
+entorno de la nube como GitHub.
+
