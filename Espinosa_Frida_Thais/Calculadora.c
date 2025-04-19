@@ -3,7 +3,7 @@
 *******************************************************************************/
 #include <stdio.h>
 
-int Calculadora() {
+int main() {
     int primerNumero;
     int segundoNumero;
     int opcionUser;
