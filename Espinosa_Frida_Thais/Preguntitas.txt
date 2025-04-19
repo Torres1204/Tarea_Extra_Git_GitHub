@@ -16,3 +16,10 @@ He visto que igual es muy útil para tomar notas, a pesar de no sr algo muy com�
 Ya sabía varias cosillas de Git, pues para mi clase de ICC, era obligatorio su uso, pero me ha servido bastante para recordar varias cosas y conceptos
 como  el de las divergencias, resolver ese tipo de problemas si es bastante engorroso si nunca has usado Git, a demás de que no me había visto
 en la necesidad desde hace mucho tiempo de crear un fork, por lo que me vino bastante bien esta tarea.
+
+(edit)
+
+Después de realizar esta tarea me di cuenta que había echo mal un pull request
+pero después de muchos meses finalmente lo corregí, es que ya llevo más de 6 meses sin usar Git jasjasaj
+anyway, me sirvió mucho la tarea.
+
