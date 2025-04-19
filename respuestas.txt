@@ -1,0 +1,11 @@
+1. ¿Cuál fue el tema que más se te dificultó en el curso y por qué?
+El tema más difícil fue el manejo de conflictos en Git, ya que según ya lo había configurado pero tuve unos problemas en los últimos jercicios de la clase asi como por ejemplo para ya usarlo me pedia un token.
+
+2. Ahora que tienes las nociones claras de lo que es Git y GitHub, ¿consideras que son herramientas útiles para tu desarrollo profesional o personal? Explica tu respuesta.
+Sí, creo que son  muy útiles porque permiten colaborar con otros de manera eficiente, mantener un historial de cambios y juntar la parte de todos.
+
+3. ¿En qué ámbitos de tu vida (académica, laboral, personal, etc.) crees que podrías aplicar Git y GitHub?en por ejemplo en proyectos de equipo.
+
+En proyecto que requieran un trabajo continuo  ya que al dividirlo  es útil para  ir guardando lo avances  de cada uno e ir teniendo orden en ellos  
+4. ¿Qué conocimientos o habilidades te llevas que no tenías antes de iniciar el curso?
+Entender cómo funcionan los comandos  de manera didcatica ya que em parecieron diversos los  diferentes ejercicios apra aprender diferentes formas de usarlo.
