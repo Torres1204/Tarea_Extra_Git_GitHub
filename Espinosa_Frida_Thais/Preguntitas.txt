@@ -1,0 +1,18 @@
+• Ahora que tienes las nociones claras de lo que es Git y GitHub, ¿consideras que son herramientas útiles para tu desarrollo profesional o personal? 
+¿Cuál fue el tema que más se te dificulto en el curso y por qué?
+Fue structures en C, creo que eso fue porque necesitaba un poco más de tiempo para adaptarme a C, el curso fue un poco rápido y necesitaba un poco
+más de tiempo para digerir toda la inofrmación que se me estaba proporcionando.
+
+• Ahora que tienes las nociones claras de lo que es Git y GitHub, ¿consideras que son herramientas útiles para tu desarrollo profesional o personal? 
+Explica tu respuesta
+Por supuesto, empezando con que es una graan herramienta para poder trabajar en equipo, poque va a facilitar el pooder trabajar simultáneamente, 
+a demás de que si alguno llegase a tener errores o divergencias y se está trabajando en ramas, es mucho más sencilo corregirlas y luego pasarlo a la
+rama principal. A demás de que es una buena herramienta para que empresas puedan ver mis proyectos y que lenguajes manejo.
+
+• ¿En que ámbitos de tu vida (académica, laboral, personal, etc.) crees que podrías aplicar Git y GitHub?
+He visto que igual es muy útil para tomar notas, a pesar de no sr algo muy común, a demás de que también suben libros y otros colores para el teclado.
+
+• ¿Qué conocimientos o habilidades te llevas que no tenías antes de iniciar el curso? Como hacer un fork
+Ya sabía varias cosillas de Git, pues para mi clase de ICC, era obligatorio su uso, pero me ha servido bastante para recordar varias cosas y conceptos
+como  el de las divergencias, resolver ese tipo de problemas si es bastante engorroso si nunca has usado Git, a demás de que no me había visto
+en la necesidad desde hace mucho tiempo de crear un fork, por lo que me vino bastante bien esta tarea.
