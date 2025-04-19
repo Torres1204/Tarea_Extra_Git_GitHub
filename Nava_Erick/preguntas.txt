@@ -1,0 +1,20 @@
+﻿Erick Nava Santiago 
+
+
+* ¿Cuál fue el tema que más se te dificulto en el curso y por qué?
+Como tal no hubo un tema que se me generara de gran dificultad. Si acaso a la hora de mandar un push, pues no me lo permitia y tenia que configurar una credencial con SSH
+
+
+* Ahora que tienes las nociones claras de lo que es Git y GitHub
+¿Consideras que son herramientas útiles para tu desarrollo profesional o personal? Explica tu respuesta
+
+
+Si, mas que nada por que suele constar trabajo organizar un proyecto personal o colaborativo, más aún cuando hay distintas versiones de archivos.
+
+
+* ¿En qué ámbitos de tu vida (académica, laboral, personal, etc.) crees que podrías aplicar Git y GitHub?
+Tanto en trabajos como en el ámbito escolar. En el tiempo que llevo estudiando usar git me ha sido útil para no revolver archivos y poder trabajar con compañeros.
+
+
+*  ¿Qué conocimientos o habilidades te llevas que no tenías antes de iniciar el curso?
+Únicamente había creado repositorios compartidos, pero nunca había hecho uno a nivel local. Por lo que ahora tengo ese conocimiento gracias al cursos.
