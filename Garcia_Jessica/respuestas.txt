@@ -1,0 +1,20 @@
+//Jessica Stephanie Garcia Monjaraz.
+
+
+1. ¿Cuál fue el tema que más se te dificultó en el curso y por qué?
+Lo más difícil fue recordar los diferentes comandos de Git, así como entender cómo funciona el proceso de pull request y push. Me tomó 
+tiempo asimilar la lógica detrás de cómo se comparte y sincroniza el trabajo en un repositorio remoto.
+
+2. Ahora que tienes las nociones claras de lo que es Git y GitHub, ¿consideras que son herramientas útiles para tu desarrollo profesional o 
+personal? Explica tu respuesta.
+Sí, pienso que son herramientas muy útiles tanto para mi desarrollo profesional como personal. Me ayudaron a tener un control ordenado de 
+mis proyectos, guardar versiones, y trabajar en colaboración con otras personas sin el miedo a perder información o sobreescribir avances.
+
+3. ¿En qué ámbitos de tu vida (académica, laboral, personal, etc.) crees que podrías aplicar Git y GitHub?
+Puedo aplicar Git y GitHub en prácticamente todo, sobretodo en la documentación y desarrollo de todos mis proyectos académicos, 
+personales y futuros trabajos profesionales. Me ayuda mucho a organizar mis ideas, código y avances.
+
+4. ¿Qué conocimientos o habilidades te llevas que no tenías antes de iniciar el curso?
+Aprendí a trabajar con repositorios de Git directamente desde mi laptop, entendiendo cómo funciona el control de versiones. 
+También adquirí habilidades en el uso de comandos de terminal y en cómo puedo crear y colaborar en proyectos mediante GitHub, lo cual antes 
+me resultaba muy confuso.
