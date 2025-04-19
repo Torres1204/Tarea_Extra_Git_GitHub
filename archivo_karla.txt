@@ -1,0 +1,12 @@
+• ¿Cuál fue el tema que más se te dificulto en el curso y por qué?
+	Hacer las ramas, usualmente me confunde que la main casi no se toca o no se sube nada ahi je.
+• Ahora que tienes las nociones claras de lo que es Git y GitHub,
+¿consideras que son herramientas útiles para tu desarrollo profesional
+o personal? Explica tu respuesta.
+	Claro que sí, git es una herramienta escencial para el trabajo en equipo, siento que es hasta una manera de comunciación.
+• ¿En que ámbitos de tu vida (académica, laboral, personal, etc.) crees
+que podrías aplicar Git y GitHub?
+	En proyectos, ahorita de hecho lo voy a usar para un proyecto en internet.
+• ¿Qué conocimientos o habilidades te llevas que no tenías antes de
+iniciar el curso?
+	Lo de forking, eso nunca lo había hecho :O
